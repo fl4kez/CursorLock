@@ -1,4 +1,4 @@
 displayName = Lock Cursor to Screen
 author = hems
 side = Client
-version = 0.4
+version = 0.5

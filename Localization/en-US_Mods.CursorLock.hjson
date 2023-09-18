@@ -1,0 +1,30 @@
+Configs: {
+	CursorLockConfig: {
+		DisplayName: Cursor Lock Config
+
+		locked: {
+			Label: Use lock
+			Tooltip: ""
+		}
+
+		padLeft: {
+			Label: Padding left
+			Tooltip: ""
+		}
+
+		padTop: {
+			Label: Padding top
+			Tooltip: ""
+		}
+
+		padRight: {
+			Label: Padding right
+			Tooltip: ""
+		}
+
+		padBottom: {
+			Label: Padding bottom
+			Tooltip: ""
+		}
+	}
+}
