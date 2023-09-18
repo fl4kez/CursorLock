@@ -1,0 +1,3 @@
+Lock Cursor to Screen is for those which have already experienced the cursor being outside of the game being unable to aim or similar.
+
+-Multiplayer bug should be fixed now!
